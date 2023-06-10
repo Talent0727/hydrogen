@@ -22,8 +22,6 @@ https://code.visualstudio.com/docs/datascience/jupyter-notebooks
 
 - Pycharm with Jupyter Notebook integration
 https://www.jetbrains.com/pycharm/
-
-
 ## Contents
 
 1. [Background](#background)
